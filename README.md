@@ -5,8 +5,7 @@
 - 📫 How to reach me 
       *  mail : adityaubale63@gmail.com
       *  website : https://adityaudayubale.web.app
-      *  tel : 8770471714 
-- https://img.shields.io/static/v1?label=ReactJS&message=Developer&color=informational
+      *  tel : 8770471714
 <!---
 aditya25022001/aditya25022001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
