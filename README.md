@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya25022001
-- 👀 I’m interested in Javascript and python basically web development that too frontend (currently)
-- 🌱 I’m currently learning ReactJs and NodeJs (the MERN stack)
+- 👀 I’m interested in Full Stack Development majorly in MEAN/MERN Stack, but I'm open to learn 👓
+- 🌱 I’m currently learning React Native to spread my knowledge in Android/iOS development
 - 💞️ I’m looking to collaborate on anything , just want a chance to perform on any real world problem and contribute to it.
 - 📫 How to reach me 
       *  mail : adityaubale63@gmail.com
@@ -11,6 +11,7 @@ aditya25022001/aditya25022001 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg.svg" title="Angular" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
